@@ -24,7 +24,7 @@
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![PostMan](https://img.shields.io/badge/-PostMan-05122A?style=flat&logo=postman)&nbsp;
 
-<br><br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
