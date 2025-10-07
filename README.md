@@ -33,7 +33,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellagomesv&layout=compact&theme=vision-friendly-dark" alt="Isabella's stats most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## 😎 &nbsp;Social Links
 
