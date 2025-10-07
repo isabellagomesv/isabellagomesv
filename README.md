@@ -1,4 +1,4 @@
-# isabelagomes
+# isabellagomes
 
 - 🔥 Técnica de Informática
 
